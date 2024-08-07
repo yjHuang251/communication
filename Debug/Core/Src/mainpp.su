@@ -1,0 +1,3 @@
+../Core/Src/mainpp.cpp:16:6:void setup()	8	static
+../Core/Src/mainpp.cpp:20:6:void main_function()	8	static
+../Core/Src/mainpp.cpp:26:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
